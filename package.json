@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^5.100.6",
+    "expo": "^55.0.18",
+    "expo-router": "^55.0.13",
+    "expo-splash-screen": "^55.0.19",
+    "expo-status-bar": "^55.0.5",
+    "react-native-gesture-handler": "^2.31.1"
+  }
+}
